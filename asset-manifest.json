@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoderHouse-Project-34730/static/css/main.69fc97ca.css",
+    "main.js": "/CoderHouse-Project-34730/static/js/main.41bc9566.js",
+    "static/js/787.8346ac9c.chunk.js": "/CoderHouse-Project-34730/static/js/787.8346ac9c.chunk.js",
+    "index.html": "/CoderHouse-Project-34730/index.html",
+    "main.69fc97ca.css.map": "/CoderHouse-Project-34730/static/css/main.69fc97ca.css.map",
+    "main.41bc9566.js.map": "/CoderHouse-Project-34730/static/js/main.41bc9566.js.map",
+    "787.8346ac9c.chunk.js.map": "/CoderHouse-Project-34730/static/js/787.8346ac9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fc97ca.css",
+    "static/js/main.41bc9566.js"
+  ]
+}
