@@ -27,6 +27,17 @@
   color: #ffffff;
 }
 
+.imageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.appGithub {
+  width: calc(30% + 1.4vw);
+  align-self: center;
+}
+
 .p1 {
   animation: show 1s;
   opacity: 0;

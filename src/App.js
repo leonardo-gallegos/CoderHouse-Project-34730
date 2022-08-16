@@ -1,4 +1,4 @@
-import github from './github.png';
+import github from './github.gif';
 import './App.css';
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
         <div class="p17">p</div>
         <div class="p18">p</div>
       </div>
-      <a href="https://github.com/leonardo-gallegos/CoderHouse-Project-31535"><img src={github} className="App-github" alt="github-logo"/></a>
+      <a class="imageContainer" href="https://github.com/leonardo-gallegos/CoderHouse-Project-31535"><img src={github} className="appGithub" alt="github-logo"/></a>
     </div>
   );
 }
