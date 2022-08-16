@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/CoderHouse-Project-34730/static/css/main.941cecca.css",
-    "main.js": "/CoderHouse-Project-34730/static/js/main.41bc9566.js",
+    "main.css": "/CoderHouse-Project-34730/static/css/main.5c0778a8.css",
+    "main.js": "/CoderHouse-Project-34730/static/js/main.7b32d7e5.js",
     "static/js/787.8346ac9c.chunk.js": "/CoderHouse-Project-34730/static/js/787.8346ac9c.chunk.js",
+    "static/media/github.gif": "/CoderHouse-Project-34730/static/media/github.7aa8b338b7e486f1061a.gif",
     "index.html": "/CoderHouse-Project-34730/index.html",
-    "main.941cecca.css.map": "/CoderHouse-Project-34730/static/css/main.941cecca.css.map",
-    "main.41bc9566.js.map": "/CoderHouse-Project-34730/static/js/main.41bc9566.js.map",
+    "main.5c0778a8.css.map": "/CoderHouse-Project-34730/static/css/main.5c0778a8.css.map",
+    "main.7b32d7e5.js.map": "/CoderHouse-Project-34730/static/js/main.7b32d7e5.js.map",
     "787.8346ac9c.chunk.js.map": "/CoderHouse-Project-34730/static/js/787.8346ac9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.941cecca.css",
-    "static/js/main.41bc9566.js"
+    "static/css/main.5c0778a8.css",
+    "static/js/main.7b32d7e5.js"
   ]
 }
