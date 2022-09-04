@@ -6,7 +6,7 @@ export const Item = ( { name, species, status, image } ) => {
         <div>
             <div className="card w-72 min-h-full bg-base-100 rounded-md shadow-xl">
                 <figure className="image-cover">
-                    <img src={ image } alt="Character Image"/>
+                    <img src={ image } alt="Character"/>
                 </figure>
                 <div className="card-body items-center text-center font-Poppins flex flex-col w-full h-full">
                     <h2 className="card-title">{ name }</h2>

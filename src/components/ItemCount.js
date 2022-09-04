@@ -23,7 +23,7 @@ function ItemCount({ stock, initial,  onAdd }) {
     return (
         <div className="card w-72 min-h-full bg-base-100 rounded-md shadow-xl">
             <figure className="image-cover">
-                <img src="https://placeimg.com/400/225/arch" alt="Character Image" />
+                <img src="https://placeimg.com/400/225/arch" alt="Character" />
             </figure>
             <div className="card-body p-4 items-center text-center font-Poppins">
                 <h2 className="card-title">NFT Name</h2>
